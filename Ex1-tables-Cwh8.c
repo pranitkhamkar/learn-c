@@ -22,7 +22,6 @@ Table of 6:
 int main()
 {
     int n;
-
 printf("give the no.: ");
     scanf("%d", &n);
 printf("\ntable of %d as follows: \n\n", n);
